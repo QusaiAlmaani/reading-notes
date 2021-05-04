@@ -11,6 +11,7 @@ growth mindset is a beleive that we can acheive anything by hard work.
 
 * **Growth mindset:**  *In a growth mindset, people believe that their most basic abilities can be developed through dedication and hard work.*
 
+<<<<<<< HEAD
 ![image](https://user-images.githubusercontent.com/83532115/116813908-f3c54780-ab5e-11eb-9799-da0474ea9fb9.png)
 
 **_3 Advice to get a growth mindset_**
@@ -24,3 +25,5 @@ growth mindset is a beleive that we can acheive anything by hard work.
 3. __Try one new thing every day__
 
 ##### If you commit to trying one new thing every day, by the end of the year you will have tried 365 new things. The chances of finding something you like, enjoy or are good at are much higher. More importantly, you will soon develop a personal growth mindset where you see challenges rather than problems, and are unafraid to try new things.
+![image](https://user-images.githubusercontent.com/83532115/116813908-f3c54780-ab5e-11eb-9799-da0474ea9fb9.png)
+
