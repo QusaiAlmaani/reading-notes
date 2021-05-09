@@ -18,3 +18,5 @@
 | Css         | [fourth read](/Css.md)|
 | HTML        | [HTML](/html.md)|
 | Js          | [Js](/Js.md) |
+|read04a      | [read04a](/read04a.md) |
+|read06       | [read06](read06.md) |
