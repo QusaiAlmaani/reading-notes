@@ -18,9 +18,7 @@
 | Css         | [fourth read](/Css.md)|
 | HTML        | [HTML](/html.md)|
 | Js          | [Js](/Js.md) |
-<<<<<<< HEAD
 |read04a      | [read04a](/read04a.md) |
 |read06       | [read06](read06.md) |
-=======
 |read04a      | [read04a](/read04a.md) |
->>>>>>> 6cb5265be4fb5f74c1e0b979cf53127e38069576
+
